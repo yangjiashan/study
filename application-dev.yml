@@ -3,7 +3,7 @@ spring:
     url: jdbc:oracle:thin:@//193.100.100.225:1521/orcl
     username: CONVERGENCE
     driver-class-name: oracle.jdbc.driver.OracleDriver
-    password: CONVERGENCE
+    password: CONVERGENCE1
     type: com.alibaba.druid.pool.DruidDataSource
     # 初始化大小，最小，最大
     initialSize: 5
