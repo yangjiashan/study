@@ -40,7 +40,7 @@ server:
 # 统计频率（每30分钟）
 datasubscription:
   cron:
-    expression: 0 0/31 * * * ?
+    expression: 0 0/30 * * * ?
 
 
 
