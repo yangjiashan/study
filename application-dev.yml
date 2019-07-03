@@ -6,7 +6,7 @@ spring:
     password: CONVERGENCE
     type: com.alibaba.druid.pool.DruidDataSource
     # 初始化大小，最小，最大
-    initialSize: 5
+    initialSize: 6
     minIdle: 5
     maxActive: 20
     # 配置获取连接等待超时的时间
